@@ -1,1 +1,5 @@
-{"test": "here man!"}
+{
+   "test": {
+      "name": "Weblate"
+   }
+}
